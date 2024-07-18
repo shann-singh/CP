@@ -3,8 +3,9 @@
 #include <ios>
 using namespace std;
 
-#define ll long long
-#define ar array
+#define ll long long int
+#define vi vector<int>
+#define vll vector<long long int>
 
 int main() {
     ios::sync_with_stdio(0);
